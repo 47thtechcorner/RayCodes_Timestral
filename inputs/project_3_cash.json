@@ -1,0 +1,11 @@
+{
+  "entity_name": "Tech Startup Treasury",
+  "history_weeks": 52,
+  "base_balance": 250000,
+  "weekly_burn": -2500,
+  "noise_std": 8000,
+  "prediction_weeks": 20,
+  "safety_buffer": 60000,
+  "chart_color": "#38bdf8",
+  "forecast_color": "#EC4899"
+}

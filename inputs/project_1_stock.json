@@ -1,0 +1,7 @@
+{
+  "ticker": "NVDA",
+  "period": "6mo",
+  "prediction_days": 30,
+  "chart_color": "#55B3FB",
+  "forecast_color": "#FA500F"
+}

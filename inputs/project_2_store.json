@@ -1,0 +1,15 @@
+{
+  "store_name": "Retail Store Alpha",
+  "history_days": 90,
+  "base_demand": 120,
+  "seasonal_amplitude": 25,
+  "noise_std": 8.0,
+  "prediction_days": 30,
+  "promo_event": {
+    "start_day": 14,
+    "end_day": 21,
+    "promo_lift": 40.0
+  },
+  "chart_color": "#10B981",
+  "forecast_color": "#FF7000"
+}
